@@ -1,0 +1,36 @@
+{
+    "tokens": [{
+        "id": 1,
+        "title": "Token 1",
+        "description": "",
+        "name": "Name 1",
+        "image": "http://35.198.216.28:3131/1621482649800.png"
+    }, {
+        "id": 2,
+        "title": "Token 2",
+        "description": "",
+        "name": "Name 2",
+        "image": "http://35.198.216.28:3131/1621482649907.png"
+    }, {
+        "id": 3,
+        "title": "Token 3",
+        "description": "",
+        "name": "Name 3",
+        "image": "http://35.198.216.28:3131/1621482650008.png"
+    }, {
+        "id": 4,
+        "title": "Token 4",
+        "description": "",
+        "name": "Name 4",
+        "image": "http://35.198.216.28:3131/1621482650109.png"
+    }, {
+        "id": 5,
+        "title": "Token 5",
+        "description": "",
+        "name": "Name 5",
+        "image": "http://35.198.216.28:3131/1621482650210.png"
+    }],
+    "profile": {
+        "name": "Token2021"
+    }
+}
